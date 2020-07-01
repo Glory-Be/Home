@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Glory Be",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -40,7 +40,7 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 26,
     "versionPublish": "4.12.4",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/glory-be-sign-post-2.jpg",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -55,7 +55,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Glory Be, St. Mary, Jamaica",
+        "meta_descr": "Glory Be, St. Mary, Jamaica, Cottages, Apartments, For Rent, Accommodation, Ocho Rios",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
